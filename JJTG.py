@@ -80,7 +80,7 @@ class JJTitleGenerator(tk.Tk):
         # 底部签名
         self.signature = tk.Label(
             self,
-            text="Design by LS",
+            text="Designed by LS\nhttps://github.com/chenchlsh/JJTitleGenerator.git",
             bg="white",
             fg="black",
             font=("PingFang SC", 10, "italic"),
